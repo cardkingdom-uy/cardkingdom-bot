@@ -28,6 +28,7 @@ def command_text(content, command):
 """Get discord icons"""
 def get_discord_icons(content):
     content = content.replace("{X}", ":regional_indicator_x:")
+    content = content.replace("{0}", ":zero:")
     content = content.replace("{1}", ":one:")
     content = content.replace("{2}", ":two:")
     content = content.replace("{3}", ":three:")
