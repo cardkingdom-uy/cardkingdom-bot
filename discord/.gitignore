@@ -1,0 +1,8 @@
+# Settings file
+local_settings.py
+
+# Cache
+__pycache__
+
+# notes
+notes.txt

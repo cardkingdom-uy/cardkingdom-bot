@@ -1,0 +1,10 @@
+# API config.
+API_CARDS_URL = "http://localhost/v1/cards/"
+API_SETS_URL = "http://localhost/v1/sets/"
+API_TOKEN = "API TOKEN HERE"
+
+# Discord config.
+BOT_TOKEN = "BOT TOKEN HERE"
+
+# General config.
+CMD_PREFIX = "!"
