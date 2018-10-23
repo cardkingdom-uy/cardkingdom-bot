@@ -43,7 +43,7 @@ def get_discord_icons(content):
     content = content.replace("{B}", ":black_circle:")
     content = content.replace("{U}", ":large_blue_circle:")
     content = content.replace("{G}", ":nauseated_face:")
-    content = content.replace("{C}", ":nauseated_face:")
+    content = content.replace("{C}", ":large_orange_diamond:")
     return content
 
 """Get all cards matching the criteria"""
